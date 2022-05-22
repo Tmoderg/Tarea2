@@ -123,8 +123,8 @@ hlsAllowOrigin: '*'
 # the settings under the path "all" are applied to all paths that do not match
 # another entry.
 paths:
-  live.stream:
   all:
+    live.stream:
     publishUser: myuserpublish
     publishPass: mypasspublish
     readUser: myuserread
