@@ -126,6 +126,6 @@ paths:
   all:
     publishUser: myuser
     publishPass: mypass
-
+    source: publisher
     readUser: user
     readPass: userpass
